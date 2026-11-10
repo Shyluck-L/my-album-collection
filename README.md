@@ -4,7 +4,7 @@
 
 ## 網站連結
 
-請在此填入 GitHub Pages 網址：`https://<你的 GitHub 帳號>.github.io/my-album-collection/`
+`https://shyluck-l.github.io/my-album-collection/`
 
 ## 主要功能
 
